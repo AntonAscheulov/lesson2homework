@@ -1,0 +1,67 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+body{
+    text-align: center;
+}
+.awesome-header{
+    text-transform: uppercase;
+    font-family: Raleway;
+    color: #212121;
+    font-size: 36px;
+    line-height: 43px;
+    margin-top: 100px;
+    margin-bottom: 25px;
+}
+hr{
+    width: 64px;
+    height: 2px;
+    background-color: #E72424;   
+    border: 1px solid #E72424;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+    }
+.awesome-text{
+    font-family: 'Open Sans';
+    color: #86878B;
+    font-size: 14px;
+    line-height: 19px;
+    margin-bottom: 67px;
+}
+.circle{
+    border-radius: 50%;
+    border: 1px solid #E72424;
+    background-color: white;
+    width: 70px;
+    height: 70px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+.circle img{
+    margin-top: 20px;
+}
+.why-awesome{
+    font-size: 0px;
+    margin-bottom: 89px;
+}
+.why-awesome-block{
+    width: 350px;
+    height: 225px;
+    display: inline-block;
+    font-family: 'Open Sans';
+    color: #000000;
+    line-height: 19px;
+    font-size: 14px;
+    margin-right: 16px;
+    margin-left: 16px;    
+}
+.why-awesome-block h2{
+    font-family: 'Open Sans';
+    color: #333333;
+    line-height: 27px;
+    font-size: 20px;
+    margin-bottom: 16px;
+}
